@@ -13,4 +13,4 @@ Cơ sở dữ liệu quản lý chuỗi cửa hàng thức ăn nhanh:
 
 ## Hướng dẫn chạy
 1. Mở SQL Server Management Studio
-2. Chạy file fastfood_db.sql
+2. Chạy file fastfood_db_sqlserver.sql
